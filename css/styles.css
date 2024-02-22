@@ -1,0 +1,21 @@
+.box1{
+    height: 300px;
+    width: 300px;
+}
+.box2{
+    height: 300px;
+    width: 300px;
+}
+.box3{
+    height: 300px;
+    width: 300px;
+}
+.box4{
+    height: 300px;
+    width: 300px;
+}
+.gallery{
+    display: flex;
+    justify-content: space-between;
+    margin: 5px;
+}
